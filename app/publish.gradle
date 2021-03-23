@@ -3,6 +3,7 @@ apply plugin: 'maven-publish'
 
 def githubProperties = new Properties()
 githubProperties.load(new FileInputStream(rootProject.file("github.properties"))) //Set env variable GPR_USER & GPR_API_KEY if not adding a properties file
+//working PAT: 9d90e3d5a34b566a7b2b7760329f4bc8cf36d089
 
 def getArtificatId = { ->
     return "free"
