@@ -35,5 +35,7 @@ manishsharmaec/dependencypackage
 
 On clicking lookup jitpack will fetch all your releases with their tagnames from this repo. Then validate your library projects which is a few minutes job.
 On validation completed successfully you will see a green color report. Click on get button in front of the report and that is it. You will scrolled to bottom with the package installation details for gralde. 
-
+    
+How to create a Github package or package dependency you can follow my medium article from here: 
+https://manishsharma007.medium.com/create-android-dependency-package-for-your-library-d6bf92fc220f
 
